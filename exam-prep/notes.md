@@ -88,9 +88,9 @@ k = 10                                # Number of bins
 data = some_data                      # Load some data
 bins = data.split(k)                  # Split it into k bins
 
-while k:
-  test_set = bins[k]                  # Pick one as test set
-  train_set = binds - binds[k]        # The rest is then train set
+for n in range(k):
+  test_set = bins[n]                  # Pick one as test set
+  train_set = binds - binds[n]        # The rest is then train set
   model.train(train_set)              # Train the model
   result += model.evaluate(test_set)  # Evaulate the model and store all result
 
