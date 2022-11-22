@@ -84,3 +84,4 @@ All the models are quite similar, however the local models performed a tiny bit 
 
 - [Jupyter Notebook with soruce code](https://github.com/jKm00/machine-learning/blob/main/assignment/assignment-2/assignmend-2.ipynb)
 - [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
+  x

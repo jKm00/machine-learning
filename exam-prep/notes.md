@@ -4,6 +4,7 @@ Joakim Edvardsen
 
 ## Course Content
 
+- [x] [Introduction to ML](#intro)
 - [x] [Supervised learning](#supervised)
 - [x] [Unsupervised learning](#unsupervised)
 - [x] Representing data and engineering features
@@ -16,6 +17,14 @@ Joakim Edvardsen
 - [ ] Convolutional neural networks
 - [ ] Recurrent neural networks
 - [ ] GPUs & cloud computing tools
+
+<h2 id="intro">Introduction to ML</h2>
+
+### What is ML?
+
+ML is the practice to train a machine on historical data to performe a particular task and give an accurant result.
+
+**For eksamepl:** Recognize and/or classify object/patterns in a give dataset
 
 <h2 id="supervised">Superviced</h2>
 
